@@ -1,1 +1,1 @@
-<h1>DJANGO NOTES</h1>
+<H1>Programming Notes</H1>
